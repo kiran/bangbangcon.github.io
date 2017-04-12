@@ -57,33 +57,36 @@ a
 is a 100% woman-owned company.
 
 ---
+
+<a name="speakers" id="speakers"></a>
+
+## Speakers
+
 <a name="aaron-levin" id="aaron-levin"></a>
 <img src="images/speakers/aaron-levin.png" alt="Aaron Levin" class="speaker-img" />
 
 ### Aaron Levin
 
-**_"Finding Friends in High Dimensions: Locality Sensitive Hashing For Fun and Friendliness!"_**
+**_Finding Friends in High Dimensions: Locality-Sensitive Hashing For Fun and Friendliness!_**
 
-When you live in the big city, finding everyone's nearest neighbours takes a long time! Our judicious city planners have conjured a technique using randomness, hyperplanes, buckets, lexical sorting, and binary numbers to get the job done approximately and fast. Really fast. They call it Locality Sensitive Hashing and management loves the idea. But it sounds too good to be true!
+When you live in the big city, finding everyone's nearest neighbours takes a long time! Our judicious city planners have conjured a technique using randomness, hyperplanes, buckets, lexical sorting, and binary numbers to get the job done approximately and fast. Really fast. They call it locality-sensitive hashing, and management loves the idea. But it sounds too good to be true!
  
- In this talk we'll explore Locality Sensitive Hashing, a technique to turn the computationally expensive Exact Nearest Neighbor Search problem into an inexpensive approximate solution (it's a neat trick and I promise you'll love it). We'll see how Locality Sensitive Hashing is used in Image Search, Recommendations, and other machine learning problems. And of course, we'll mention Deep Hashing, because why not?
+ In this talk we'll explore locality-sensitive hashing, a technique to turn the computationally expensive exact nearest-neighbor search problem into an inexpensive approximate solution (it's a neat trick and I promise you'll love it). We'll see how locality-sensitive hashing is used in image search, recommendations, and other machine learning problems. And of course, we'll mention deep hashing, because why not?
 
-**Aaron Levin** is a mathematician who fell in love with programming and now manages Data Science teams at SoundCloud. Aaron found a rare record once and wrote about it on Weird Canada.
-
----
+**Aaron Levin** is a mathematician who fell in love with programming and now manages data science teams at SoundCloud. Aaron found a rare record once and wrote about it on Weird Canada.
 
 <a name="alex-clemmer" id="alex-clemmer"></a>
 <img src="images/speakers/alex-clemmer.png" alt="Alex Clemmer" class="speaker-img" />
 
 ### Alex Clemmer
 
-**_"It's super effective! Solving Pokemon Blue with a single, huge regular expression"_**
+**_It's super effective! Solving Pokemon Blue with a single, huge regular expression_**
 
 I was playing my old copy of Pokemon Blue for the original Game Boy one day during winter holidays, for old times' sake. About an hour in, I realized that this was probably going to take me on the order of 20-30 hours to complete.
  
- 20-30 hours! Who has time for that?
+20-30 hours! Who has time for that?
  
- What I'd really like to do is sit down, think very carefully, and write down all the moves I'd like to make, all at once, and then pass them to a regular expression, which will accept if (and only if) those moves will win a game of Pokemon Blue. This approach has a lot of advantages! For example, in addition to being faster to specify a complete moveset for a game, it allows you to put your entire game of Pokemon Blue game into a version control system (e.g., git), which allows you to apply the "infrastructure as code" philosophy to your Pokemon Blue runthrough.
+What I'd really like to do is sit down, think very carefully, and write down all the moves I'd like to make, all at once, and then pass them to a regular expression, which will accept if (and only if) those moves will win a game of Pokemon Blue. This approach has a lot of advantages! For example, in addition to being faster to specify a complete moveset for a game, it allows you to put your entire game of Pokemon Blue into a version control system (e.g., git), which allows you to apply the "infrastructure as code" philosophy to your Pokemon Blue runthrough.
 
 **Alex Clemmer** is a computer programmer. Other programmers love Alex, excitedly describing him as 'employed here' and 'the boss's son'.
 
@@ -94,14 +97,13 @@ I was playing my old copy of Pokemon Blue for the original Game Boy one day duri
 
 ### Andrew Plotkin
 
-**_"Glk! A universal user interface! for interactive fiction!"_**
+**_Glk! A universal user interface! for interactive fiction!_**
 
 In 1997, I set out to extend Infocom's Z-machine to support modern interactive fiction. Surprisingly, many of my design decisions turned out to be clever! Glk is now a thriving software ecosystem which supports many IF platforms, interpreters, and other tools. It's also hard to pronounce Glk.
  
- Hear a twenty-year tale of interpreter support! Discover how my C API evolved into a Javascript API and a JSON data format while still being hard to pronounce! Marvel at how my attempt at a universal user interface was an inevitable failure, but still lets us do some really cool things! Wonder when I will get around to shipping Glk 2.0!
+Hear a twenty-year tale of interpreter support! Discover how my C API evolved into a JavaScript API and a JSON data format while still being hard to pronounce! Marvel at how my attempt at a universal user interface was an inevitable failure, but still lets us do some really cool things! Wonder when I will get around to shipping Glk 2.0!
 
 **Andrew Plotkin** has been working on interactive fiction and stuff like that for a very long time. He works as an indie game developer in Boston and helps run an IF meetup, an IF nonprofit, and occasionally things that are not directly related to IF. He also bakes cookies.
-
 
 ---
 
@@ -110,9 +112,9 @@ In 1997, I set out to extend Infocom's Z-machine to support modern interactive f
 
 ### Bomani McClendon
 
-**_"Making Mushrooms Glow!"_**
+**_Making Mushrooms Glow!_**
 
-This is the story of the software and electronics behind [ANON: prokect], an interactive art project comprised of five huge, kinetic, glowing origami mushrooms. [ANON: project] was presented at [ANON: large festival] and at the [ANON: other large festival]. I'll share what I learned about using Raspberry Pi, Pixelpushers, and Node.js (yes, Javascript!) to control these large contraptions.
+This is the story of the software and electronics behind [ANON: project], an interactive art project comprised of five huge, kinetic, glowing origami mushrooms. [ANON: project] was presented at [ANON: large festival] and at the [ANON: other large festival]. I'll share what I learned about using Raspberry Pi, Pixelpushers, and Node.js (yes, JavaScript!) to control these large contraptions.
 
 **Bomani McClendon** is a software engineer and designer from Nashville, currently studying Computer Science at Northwestern. He is passionate about learning sciences, music, and memorable digital experiences. 
 
@@ -123,7 +125,7 @@ This is the story of the software and electronics behind [ANON: prokect], an int
 
 ### Charles Chamberlain
 
-**_"Serious programming with jq?! A practical and purely functional programming language!"_**
+**_Serious programming with jq?! A practical and purely functional programming language!_**
 
 Ever heard of jq? If so, chances are you've used it to format and syntax-highlight your json. You might have even used something like `jq '.foos[]'` to print each foo! But did you know jq has user-defined functions? That jq has modules? Get ready to take a dive into the wondrous and purely functional land of the jq programming language!
 
@@ -136,17 +138,11 @@ Ever heard of jq? If so, chances are you've used it to format and syntax-highlig
 
 ### Christian Joudrey
 
-**_"OMG! Assembly is fun!!!"_**
+**_OMG! Assembly is fun!!!_**
+ 
+I'd like to take you on a stroll down memory lane and dig into the internals of the Nintendo Entertainment System (NES) to figure out how it works.  While we're there, we'll see how to build a game for the NES using 6502 assembly with the help of a few modern tools.  We'll gain a newfound respect for 80's developers and a new appreciation for the high-level languages we have today!
 
-Assembly language doesn't have to be that cryptic old language that nobody uses anymore.
- 
- I'd like to take you on a stroll down memory lane and dig into the internals of the Nintendo Entertainment System (NES) to figure out how it works.
- 
- While we're there, let's see how you too can build a game for the NES using 6502 assembly with the help of a few modern tools.
- 
- But why?! Because it's fun and you might learn a thing or two doing so. If anything you will have a new found respect for 80s developers and an appreciation for the high-level languages we have today.
-
-**Christian** is a self-thought developer based in Montreal. At a young age he discovered Visual Basic 6 on his home computer and instantly fell in love with programming. When he is not reading about technology and programming, you may find him rock climbing, cooking or drinking a stout.
+**Christian** is a self-taught developer based in Montreal. At a young age he discovered Visual Basic 6 on his home computer and instantly fell in love with programming. When he is not reading about technology and programming, you may find him rock climbing, cooking or drinking a stout.
 
 ---
 
@@ -155,7 +151,7 @@ Assembly language doesn't have to be that cryptic old language that nobody uses 
 
 ### David Turner
 
-**_"Om! Nom! Nash!"_**
+**_Om! Nom! Nash!_**
 
 Om Nom Nom is a game about cute forest creatures eating each other. We can (almost) solve it by doing some game theory, and some tree search, with some cleverness. We won't always win, but nobody will be able to do better. We'll explore a few techniques for writing game solvers, and show how these techniques can be used to build an On Nom Nom solver. Then we never have to play it again!
 
@@ -168,11 +164,11 @@ Om Nom Nom is a game about cute forest creatures eating each other. We can (almo
 
 ### Evan Jones
 
-**_"Corruption in the Data Center! TCP can fail to keep your data safe!"_**
+**_Corruption in the Data Center: TCP can fail to keep your data safe!_**
 
-TCP has a checksum, and Ethernet has a CRC, both of which detect corrupt data. The math says this should make it extremely unlikely for applications talking to each other inside a data center using TCP to receive corrupt data. Unfortunately, it can happen. When it happened at [ANON: prominent tech company] it took a team of a few dozens people and multiple days to clean up the mess.
+TCP has a checksum, and Ethernet has a CRC, both of which detect corrupt data. The math says this should make it extremely unlikely for applications talking to each other inside a data center using TCP to receive corrupt data. Unfortunately, it can happen. When it happened at [ANON: prominent tech company] it took a team of a few dozen people and multiple days to clean up the mess.
  
- I'll talk about how we discovered that our applications were receiving corrupt data, and what we did to stop the bleeding. Then I'll walk though a high level overview of TCP, Ethernet, and switches to show how corruption can sneak past the CRC and checksum defenses. Finally, I'll describe how you can protect your applications by adding a strong CRC or using encryption.
+I'll talk about how we discovered that our applications were receiving corrupt data, and what we did to stop the bleeding. Then I'll walk though a high-level overview of TCP, Ethernet, and switches to show how corruption can sneak past the CRC and checksum defenses. Finally, I'll describe how you can protect your applications by adding a strong CRC or using encryption.
 
 **Evan** is a software engineer at Bluecore in New York, but was at Twitter at the time of this particular incident. He gets obsessed with technical problems that he doesn't understand, and writes about them on his web site so he never has to think about them again.
 
@@ -183,15 +179,9 @@ TCP has a checksum, and Ethernet has a CRC, both of which detect corrupt data. T
 
 ### Ewan Dennis
 
-**_"Why So Loud! Geeking Out On Airline Data, Physics And Mapping."_**
+**_Why So Loud?!: Geeking Out On Airline Data, Physics And Mapping_**
 
-We were looking for a new place to live in [ANON: european country]. I found myself eerily familiar with our preferred town because it's on the local airport approach path.
- 
- What followed was a nerd montage of tracking flight paths by API, researching jet noise propagation effects, plotting heatmaps and making family relocation plans.
- 
- This talk is that story.
-
-
+We were looking for a new place to live in [ANON: european country]. I found myself eerily familiar with our preferred town because it's on the local airport approach path.  What followed was a nerd saga of tracking flight paths by API, researching jet noise propagation effects, plotting heatmaps and making family relocation plans.  This talk is that story.
 
 **Ewan** is a career geek/autodidact with some pretty varied experience (scientific visualisation, games, app security, cloud infra) who has been remiss in the extreme about giving back to the community that spawned him. **Ewan**'s mission now is to share all the interesting tech ideas he can; to engage, entertain, encourage, support and wherever possible to engender the same ooh-howz-that-thing-work inquisitiveness he feels every day.
 
@@ -202,11 +192,11 @@ We were looking for a new place to live in [ANON: european country]. I found mys
 
 ### Geoffrey Litt
 
-**_"ENHANCE! Upscaling images with neural networks"_**
+**_ENHANCE! Upscaling images with neural networks_**
 
 When characters on a TV show “enhance!” a blurry image, you probably laugh and tell your friends that it’s impossible to do that in real life. But over the past year, deep learning research has actually made this kind of possible! How will you explain this to your friends!?
  
- In this talk, you’ll get an intuitive introduction to Generative Adversarial Networks, a new type of neural network that’s surprisingly good at upscaling images. You’ll learn how these systems are inspired by human art forgers, and how you can use them to generate fake photographs, convert 2D images to 3D models, and so much more!
+In this talk, you’ll get an intuitive introduction to generative adversarial networks, a new type of neural network that’s surprisingly good at upscaling images. You’ll learn how these systems are inspired by human art forgers, and how you can use them to generate fake photographs, convert 2D images to 3D models, and so much more!
 
 **Geoffrey** is an engineer at Panorama Education, building software to help schools improve. He enjoys writing Ruby and playing the cello.
 
@@ -217,10 +207,9 @@ When characters on a TV show “enhance!” a blurry image, you probably laugh a
 
 ### Jan Mitsuko Cash
 
-**_"What alien invaders, birds, and computer simulations have in common: flocking!!"_**
+**_What alien invaders, birds, and computer simulations have in common: flocking!!_**
 
-Real flocks aren't what they're like in the movies.
- You've probably seen flocking behavior in The Avengers, the latest Star Trek movie, or even in The Ender's Game books. Flocks are groups of individuals, usually birds (or invading aliens when it comes to Sci-Fi), that are collectively moving together. The flocks in movies show individuals forming complex patterns, but they're all easily taken down by targeting a centralized point of command. In reality, flocking behavior is a lot simpler and there doesn't need to be any coordination between individuals--that means your favorite protagonists probably wouldn't have won when they came up against flocks!
+Real flocks aren't what they're like in the movies.  You've probably seen flocking behavior in _The Avengers_, the latest _Star Trek_ movie, or even in the _Ender's Game_ books. Flocks are groups of individuals, usually birds (or invading aliens when it comes to sci-fi), that are collectively moving together. The flocks in movies show individuals forming complex patterns, but they're all easily taken down by targeting a centralized point of command. In reality, flocking behavior is a lot simpler, and there doesn't need to be any coordination between individuals -- that means your favorite protagonists probably wouldn't have won when they came up against flocks!
 
 **Jan** is an editor at No Starch Press and freelance Japanese to English translator. Sometimes she programs, usually with turtles.
 
@@ -231,11 +220,11 @@ Real flocks aren't what they're like in the movies.
 
 ### Jason McIntosh
 
-**_"I wrote a polite email to a dead address in a PDF on the wayback machine and now I know where all the airplanes are!!!"_**
+**_I wrote a polite email to a dead address in a PDF on the Wayback Machine and now I know where all the airplanes are!!!_**
 
 I spent a chunk of 2016 making a web application for myself and other nervous air passengers called [ANON: redacted name of product]. You can plug an upcoming flight into it and it tells you when you can expect to hit turbulence and how bad it'll be. Still kinda scary, but at least it'll surprise you less.
  
- I wanna tell you about how I made it, because I had to exercise my skills at social engineering — the good kind! — at least as much as software engineering. [ANON: redacted name of product] came about through finding in myself an uncharacteristic willingness to approach complete strangers, asking them politely for access to tools or data, and feeling surprised at how well it worked, time and again.
+I wanna tell you about how I made it, because I had to exercise my skills at social engineering — the good kind! — at least as much as software engineering. [ANON: redacted name of product] came about through finding in myself an uncharacteristic willingness to approach complete strangers, asking them politely for access to tools or data, and feeling surprised at how well it worked, time and again.
 
 **Jason McIntosh** is a freelance software engineer, game-design consultant, and writer. He lives variously in and around New England. His homepage is at jmac.org, and he blogs regularly at fogknife.com.
 
@@ -246,16 +235,16 @@ I spent a chunk of 2016 making a web application for myself and other nervous ai
 
 ### Jean Cochrane
 
-**_"The TOP 5 Queer Feminist Cyberpunk Manifestos!"_**
+**_The TOP 5 Queer Feminist Cyberpunk Manifestos!_**
 
-“Our lot is cast with technoscience, where nothing is so sacred that it cannot be reengineered and transformed so as to widen our aperture of freedom, extending to gender and the human. To say that nothing is sacred, that nothing is transcendent or protected from the will to know, to tinker and to hack, is to say that nothing is supernatural.” 
- - Xenofeminism: A Politics for Alienation (Laboria Cuboniks)
+> “Our lot is cast with technoscience, where nothing is so sacred that it cannot be reengineered and transformed so as to widen our aperture of freedom, extending to gender and the human. To say that nothing is sacred, that nothing is transcendent or protected from the will to know, to tinker and to hack, is to say that nothing is supernatural.” 
+-- Xenofeminism: A Politics for Alienation (Laboria Cuboniks)
  
- Who were the cyberfeminists? Why has practically no one heard of them? And what might it look like to hack your gender?
+Who were the cyberfeminists? Why has practically no one heard of them? And what might it look like to hack your gender?
  
- For answers to these questions and more, join us on a whirlwind tour of the hidden history of cyberfeminisms, catalogued through the DIY manifesto form. We’ll rank the best of the best, adapting this rich intellectual legacy to reconcile our own relationships to computing tools (our phones, our laptops, our bodies) in the emergent techno-dystopia of the present.
+For answers to these questions and more, join us on a whirlwind tour of the hidden history of cyberfeminisms, catalogued through the DIY manifesto form. We’ll rank the best of the best, adapting this rich intellectual legacy to our own relationships to computing tools (our phones, our laptops, our bodies) in the emergent techno-dystopia of the present.
  
- Remember: the first computers were women. Why shouldn’t the last women be computers?
+Remember: the first computers were women. Why shouldn’t the last women be computers?
 
 **Jean Cochrane** is a civic hacker from the South Side of Chicago interested in scalable challenges to the most dire injustices of our time, including transgenerational poverty, mass incarceration, and the criminalization of migrants. At DataMade, she leverages contemporary data practices to help empower journalists and advocacy organizations. It’s been five years and she’s still trying to figure out how to recover from critical theory.
 
@@ -266,7 +255,7 @@ I spent a chunk of 2016 making a web application for myself and other nervous ai
 
 ### Jes Wolfe!
 
-**_"Synthesizing video and turning it into music!"_**
+**_Synthesizing video and turning it into music!_**
 
 I like finding ways to use technology for things that it wasn't originally meant to do. In this talk, I'll take you on a tour of a rabbit hole I followed recently: Using a web browser's 3D graphics capabilities to generate 2D video, and then converting the data in that video into sound, to produce music.
 
@@ -279,11 +268,11 @@ I like finding ways to use technology for things that it wasn't originally meant
 
 ### Joel Potischman
 
-**_"What the heck time is it?!?"_**
+**_What the heck time is it?!?_**
 
-To set your computer's clock just set it to match an atomic clock on the internet. Oh wait, don't forget to account for the time the request takes. Oh wait, and for the time the response takes. Oh and that request and response times might be different. Oh and that if you need to set your clock back your logs and transactions will be out of order (hello bank transfer hacks!). Oh and this needs to work for several billion devices on the internet doing this all day every day forever. Oh and if you do it wrong Very Bad Things Can Happen (bricked iPhones! broken TLS!)
+To set your computer's clock, just set it to match an atomic clock on the Internet. Oh, wait, don't forget to account for the time the request takes. Oh, wait, and for the time the response takes. Oh, and that request and response times might be different. Oh, and that if you need to set your clock back, your logs and transactions will be out of order (hello, bank transfer hacks!). Oh, and it needs to work for several billion devices on the Internet doing this all day every day forever. Oh, and if you do it wrong, Very Bad Things Can Happen (bricked iPhones! broken TLS!).
  
- We'll talk about how Network Time Protocol (NTP) has solved these problems for over 30 years, where it falls short, and what the future holds.
+We'll talk about how Network Time Protocol (NTP) has solved these problems for over 30 years, where it falls short, and what the future holds.
 
 **Joel** is a developer, cyclist, and maker in Brooklyn and he knows what a cliché he sounds like but he's okay with that.
 
@@ -294,9 +283,9 @@ To set your computer's clock just set it to match an atomic clock on the interne
 
 ### Julian Squires
 
-**_"The emoji that killed Chrome!!"_**
+**_The emoji that killed Chrome!!_**
 
-One day, I came back from lunch to discover everyone's copy of Chrome wouldn't stop crashing!! How could turning on a printer downstairs cause an office-wide browser outage!?! A glorious part of programming is when a bug reveals the delicate fragility of a system far beyond its scope! Tracing down the culprit will take us through Unicode, mDNS, gdb, tcpdump, tcpreplay, and Objective-C!!
+One day, I came back from lunch to discover everyone's copy of Chrome wouldn't stop crashing!! How could turning on a printer downstairs cause an office-wide browser outage!?! A glorious part of programming is when a bug reveals the delicate fragility of a system far beyond its scope! Tracing down the culprit will take us on a journey through Unicode, mDNS, gdb, tcpdump, tcpreplay, and Objective-C!!
 
 **Julian** is an eccentric layabout in Montreal, Canada.  He gets paid to slowly program computers fastly.
 
@@ -307,18 +296,12 @@ One day, I came back from lunch to discover everyone's copy of Chrome wouldn't s
 
 ### Kevin Chen
 
-**_"HDR photography in Microsoft Excel?! How I learned to stop fearing papers"_**
+**_HDR photography in Microsoft Excel?!_**
 
 As any photographer will tell you, high dynamic range photography is the right way to solve your problem. As any businessperson will tell you, spreadsheets are the right platform to implement your solution.
  
- In this talk, I'll explain the math behind one of the foundational papers of the high dynamic range algorithm used in all camera apps today. Turns out, it's just a linear regression! So the obvious and sane thing to do is to do some image processing in Microsoft Excel.
+In this talk, I'll explain the math behind the high dynamic range algorithm used in all camera apps today. Turns out, it's just a linear regression! So the obvious thing to do is to do some image processing in Microsoft Excel.
  
- ---
- 
- I also wrote this about my motivation for giving this talk, but I'm not sure where it fits in the abstract:
- 
- There's a lot of great information contained in research papers, but there's also a lot of formally worded sentences and scary-looking equations. But not to fear! Many of the core ideas behind important papers in computer science are actually simple and easy to understand.
-
 **Kevin** is very good at forgetting about conference talk proposals until a few minutes before the deadline.
 
 ---
@@ -328,11 +311,13 @@ As any photographer will tell you, high dynamic range photography is the right w
 
 ### Lisa Ballard
 
-**_"Where Are All the Space Robots?"_**
+**_Where Are All the Space Robots?!_**
 
-Earthlings are currently communicating with 33 space probes that have escaped Earth's orbit and set off into our solar system and beyond. Each mission's origins span borders and countries all over the world and conduct a wide variety of science, but getting information about these probes can be tricky. Several space agencies detail their own missions to varying degrees around the web, but outside of Wikipedia there was not a single website that described all the current active robots humans have flung into space, so we decided to build it! We wanted to create a website that was both beautiful to use and provided up to the minute information about Earth's robotic ambassadors. I'll demo the site, talk about the technology we used to produce it, and show how we use some python tools and an undocumented online data feed from NASA's Deep Space Network to display some up to the minute information about each probe.
+Earthlings are currently communicating with 33 space probes that have escaped Earth's orbit and set off into our solar system and beyond. Each mission spans borders all over the world and conducts a wide variety of science, but getting information about these probes can be tricky. Several space agencies detail their own missions to varying degrees around the web, but outside of Wikipedia, there wasn't a single website that described all the current active robots humans have flung into space.  So we decided to build it!
 
-**Lisa** is a planetary science web developer at the SETI Institute, the CTO of Spacehack.org, and an appointed NASA Datanaut. She loves creating beautiful user experiences through close collaborations with designers, and is on a mission to make space mission data more accessible.  
+We wanted to create a website that was both beautiful to use and provided up-to-the-minute information about Earth's robotic ambassadors. I'll demo the site, talk about the technology we used to produce it, and show how we use some python tools and an undocumented online data feed from NASA's Deep Space Network to display current information about each probe.
+
+**Lisa** is a planetary science web developer at the SETI Institute, the CTO of Spacehack.org, and an appointed NASA Datanaut. She loves creating beautiful user experiences through close collaborations with designers, and is on a mission to make space mission data more accessible.
 
 ---
 
@@ -341,13 +326,13 @@ Earthlings are currently communicating with 33 space probes that have escaped Ea
 
 ### Mahtab Sabet
 
-**_"We Built a Game…for CHARITY!!"_**
+**_We Built a Game…for CHARITY!!_**
 
-In October 2016, I attended “Gift the Code”, a charity hackathon in Toronto. Our team built “PiKit”, a game designed for kids who lack fine motor control or who have limited mobility. The challenge was to build a fun, compelling, and educational game in which the only input was… a GIANT RED BUTTON! The game is now being played by kids at [ANON: a children's hospital].
+In October 2016, I attended “Gift the Code”, a charity hackathon in Toronto. Our team built PiKit, a game designed for kids who lack fine motor control or who have limited mobility. The challenge was to build a fun, compelling, and educational game in which the only input was… a GIANT RED BUTTON! The game is now being played by kids at [ANON: a children's hospital].
  
- This talk is a beginner’s guide to designing and building a game, based on what I learned as a first-time game developer at the hackathon. I’ll talk about using constraints to spur creativity in a design sprint, how to get inspiration from your favourite games, and how to design a game with logical level progressions.
+This talk is a beginner’s guide to designing and building a game, based on what I learned as a first-time game developer at the hackathon. I’ll talk about using constraints to spur creativity in a design sprint, how to get inspiration from your favourite games, and how to design a game with logical level progressions.
 
-**Mahtab**'s dream job is to be a star on Broadway, but in the meantime works as a Senior Software Engineer at Capital One in Toronto, Canada. 
+**Mahtab**'s dream job is to be a star on Broadway, but in the meantime she works as a Senior Software Engineer at Capital One in Toronto, Canada. 
 
 ---
 
@@ -356,15 +341,15 @@ In October 2016, I attended “Gift the Code”, a charity hackathon in Toronto.
 
 ### Mark Dominus
 
-**_"Automatic classification of quilt block patterns"_**
+**_Automatic classification of quilt block patterns!_**
 
 To make a quilt, you take a lot of small patches of fabric and sew them together into larger patterns called blocks. Long ago I had the computer generate every representative of a certain set of blocks, because I suspected that there would be some cool blocks in the set that were rarely seen. I was right! The set looks super cool.
  
- Some of the blocks were very easy to tell apart, but the differences between others were very subtle. I wondered if there was a way to get the computer to classify the blocks into families where the blocks in each family looked similar.
+Some of the blocks were very easy to tell apart, but the differences between others were very subtle. I wondered if there was a way to get the computer to classify the blocks into families where the blocks in each family looked similar.
  
- This is a very nebulous problem, underspecified and vague. Just the kind of problem I like! The first thing I tried didn't work, but the second thing did, and I will explain how it works, with many cool illustrations, and explain some of the general problem-solving techniques that I use to solve vague and poorly-specified problems like this one.
+This is a very nebulous problem, underspecified and vague. Just the kind of problem I like! The first thing I tried didn't work, but the second thing did, and I will explain how it works, with many cool illustrations, and explain some of the general problem-solving techniques that I use to solve vague and poorly-specified problems like this one.
 
-**Mark Dominus** is married to a quilter.  He first became interested in programming in the mid-1970s from watching his mom do it.  
+**Mark Dominus** is married to a quilter.  He first became interested in programming in the mid-1970s from watching his mom do it.
 
 ---
 
@@ -373,13 +358,13 @@ To make a quilt, you take a lot of small patches of fabric and sew them together
 
 ### Michael Kwan
 
-**_"No battery, no (watch) life!!"_**
+**_No battery, no (watch) life!!_**
 
 Smartwatches are smaller and lighter than any handset! Anything that drains slightly more power can tank your battery life.
  
- A set of case files of a detective's tale on investigating what killed the battery this time, and the various culprits involved. With a full mobile operating system running on the device, there's plenty of suspects.
+This talk is a set of case files from a detective's investigation of what killed the battery this time, and the various culprits involved. With a full mobile operating system running on the device, there're plenty of suspects.
 
-**Michael Kwan** has worked on Android Wear for a while now, but he's had a watch frequently strapped to his wrist since he was a young'un. He likes climbing things and plays way too many board games, but somehow has yet to do both at the same time.
+**Michael Kwan** has worked on Android Wear for a while now, but he's had a watch frequently strapped to his wrist since he was a young 'un. He likes climbing things and plays way too many board games, but somehow has yet to do both at the same time.
 
 ---
 
@@ -388,11 +373,11 @@ Smartwatches are smaller and lighter than any handset! Anything that drains slig
 
 ### Mindy Preston
 
-**_"DHCP: IT'S MOSTLY YELLING!!"_**
+**_DHCP: IT'S MOSTLY YELLING!!_**
 
-The Dynamic Host Configuration Protocol (DHCP to its friends) is the magic by which your laptop knows how to get to Twitter on a brand new network about which it knows nothing. DHCP can tell your computer what its address should be, and where it should go to connect out to other networks. It can also tell your laptop weird stuff, like that it should run all the traffic through a proxy!!
+The Dynamic Host Configuration Protocol (DHCP to its friends) is the magic by which your laptop knows how to get to Twitter on a brand-new network about which it knows nothing. DHCP can tell your computer what its address should be, and where it should go to connect out to other networks. It can also tell your laptop weird stuff, like that it should run all the traffic through a proxy!!
 
-**Mindy** likes cats and programming in OCaml.  She mostly works Mirage, a library operating system that generates unikernels.  
+**Mindy** likes cats and programming in OCaml.  She mostly works on Mirage, a library operating system that generates unikernels.
 
 ---
 
@@ -401,15 +386,15 @@ The Dynamic Host Configuration Protocol (DHCP to its friends) is the magic by wh
 
 ### Paul Frazee
 
-**_"Simulated Gravity Comes from Within!!"_**
+**_Simulated Gravity Comes from Within!!_**
 
 Eve Online slows down time in the game when there are too many players in a region. That way, the messages have time to get processed.
  
- Well what if you slowed down time not in regions, but variably throughout one continuous space? Wouldn't that screw with your physics engine? I got curious, so I wrote a simulation with this time dilation and... well, objects started orbiting each other. The weird thing? I didn't program in gravity.
+Well, what if you slowed down time not in regions, but variably throughout one continuous space? Wouldn't that screw with your physics engine? I got curious, so I wrote a simulation with this time dilation and...well, objects started orbiting each other. The weird thing? I didn't program in gravity.
  
- Let's step through the demo to understand why.
+Let's step through the demo to understand why.
 
-**Paul**'s a lifelong hacker and dabbler with a love for games, music, history, and systems. **Paul** cofounded Blue Link Labs and the Beaker Browser project.
+**Paul**'s a lifelong hacker and dabbler with a love for games, music, history, and systems. He cofounded Blue Link Labs and the Beaker Browser project.
 
 ---
 
@@ -418,11 +403,11 @@ Eve Online slows down time in the game when there are too many players in a regi
 
 ### Richard Harrington
 
-**_"BEEP!! ]▯ See AppleSoft BASIC and 6502 machine language written on an actual Apple IIc from the 80s! Fresh on startup with no software installed!"_**
+**_BEEP!! ]▯ See AppleSoft BASIC and 6502 machine language written on an actual Apple IIc from the 80s! Fresh on startup with no software installed!_**
 
-What’s the first thing you see when you turn on your computer? Back in the day (1982 or thereabouts), on the Apple II+/e/c, it was a BASIC prompt! You had no choice but to start programming, and it was easy because it was BASIC! Not only that, you could drop down to a machine language prompt and start entering instructions in the 6502 processor language! We’ll write a short animation program in BASIC, a subroutine in 6502 machine language, and call the latter from the former, all with no software installed but the ROM that came with the computer! (Speaker’s actual Apple IIc from childhood used in talk!)
+What’s the first thing you see when you turn on your computer? Back in the day (1982 or thereabouts), on the Apple II+/e/c, it was a BASIC prompt! You had no choice but to start programming, and it was easy because it was BASIC! Not only that, you could drop down to a machine language prompt and start entering instructions in the 6502 processor language! We’ll write a short animation program in BASIC, a subroutine in 6502 machine language, and call the latter from the former, all with no software installed but the ROM that came with the computer! (I'll use my actual Apple IIc from childhood in the talk!)
 
-**Richard Harrington** started programming on an Apple IIc in 1979, ran away from programming in 1983 for the theater when he was 14 years old, and returned to his first love 25 years later, after touring the world with (among other things) a clown show called Motel California, the heartwarming tale of a ruthless Belgian mercenary who gives up his life of killing for the cabaret. Ricahrd is currently a software engineer at SoundCloud.
+**Richard Harrington** started programming on an Apple IIc in 1979, ran away from programming in 1983 for the theater when he was 14 years old, and returned to his first love 25 years later, after touring the world with (among other things) a clown show called Motel California, the heartwarming tale of a ruthless Belgian mercenary who gives up his life of killing for the cabaret. Richard is currently a software engineer at SoundCloud.
 
 ---
 
@@ -431,9 +416,9 @@ What’s the first thing you see when you turn on your computer? Back in the day
 
 ### Ruchir Khaitan
 
-**_"Interpolation Search Can Be Fast, in Some Situations, Sometimes, If You Try"_**
+**_Interpolation Search Can Be Fast, in Some Situations, Sometimes, If You Try!_**
 
-When was the last time you binary searched a phone book? Never? What you've never used a phone book? Ok fine, I've never _actually_ used a phone book for anything other than a doorstop either. But, if I had to manually search through antiquated tomes I would use interpolation search. It's the ideal search algorithm / data structure for searching large arrays repeatedly. And with a little bit of operator-strength reducing math sorcery, its not just theoretically fast, its useful in real life!
+When was the last time you binary-searched a phone book? Never? What you've never used a phone book? Okay, fine, I've never _actually_ used a phone book for anything other than a doorstop either. But if I had to manually search through antiquated tomes, I would use interpolation search. It's the ideal search algorithm and data structure for searching large arrays repeatedly. And with a little bit of operator-strength-reducing math sorcery, it's not just theoretically fast, it's useful in real life!
 
 **Ruchir** loves making computers go faster. He also loves eating, cooking and thinking about his next meal. He works on the Real Time Platform Team at AppNexus.
 
@@ -444,11 +429,11 @@ When was the last time you binary searched a phone book? Never? What you've neve
 
 ### Scott Vokes
 
-**_"How do Keyboards Work? HIDing, in Plain Sight!!"_**
+**_How do Keyboards Work? HIDing, in Plain Sight!!_**
 
 We spend a lot of time with our keyboards. How do they work? How does pushing dozens of keys on a board transmute into text, code, and commands that control computers?
  
- I have been building a keyboard from scratch, and I'll talk about the different pieces: from the circuit that connects the key switches to the firmware that reads them and presents everything in USB. I'll also have some tips if you want to make your own keyboard, Emacs foot pedals, or other Human Interface Devices.
+I have been building a keyboard from scratch, and I'll talk about the different pieces: from the circuit that connects the key switches to the firmware that reads them and presents everything in USB. I'll also have some tips if you want to make your own keyboard, Emacs foot pedals, or other Human Interface Devices.
 
 **Scott** is a senior software engineer at Helium, where he works on embedded and distributed systems.
 
@@ -459,11 +444,11 @@ We spend a lot of time with our keyboards. How do they work? How does pushing do
 
 ### Tara Vancil
 
-**_"How Merkle trees enable the decentralized Web!"_**
+**_How Merkle trees enable the decentralized Web!_**
 
 Decentralized networks operate without relying on a central source of truth, and instead rely on group coordination in order to establish a shared state. Trust is distributed among participants, so in order to have confidence that each participant is telling the truth, there must be a mechanism for guaranteeing that participants have not corrupted or tampered with the system's state.
  
- Enter the Merkle tree, a data structure that was patented in 1979, and because of its unique content validating and performance qualities, has since become the backbone of decentralized software like Git, BitTorrent, ZFS, and Ethereum.
+Enter the Merkle tree, a data structure that was patented in 1979, and because of its unique content validating and performance qualities, has since become the backbone of decentralized software like Git, BitTorrent, ZFS, and Ethereum.
 
 **Tara** helps build Beaker, an experimental browser for exploring and publishing to peer-to-peer networks. She's enthusiastic about decentralizing the Web, and thinks that peer-to-peer protocols will reinvigorate the creativity of the Web's early days.
 
@@ -474,23 +459,23 @@ Decentralized networks operate without relying on a central source of truth, and
 
 ### Walt Mankowski
 
-**_"A punch card ate my program!"_**
+**_A punch card ate my program!_**
 
 COBOL is the Rodney Dangerfield of programming languages — it doesn't get any respect. COBOL is routinely denigrated for its verbosity and dismissed as archaic, and for good reason: COBOL bears little to no resemblance to modern programming languages. Yet COBOL is far from a dead language. It processes an estimated 85% of all business transactions, and 5 billion lines of new COBOL code are written every year!
  
- In the past I've argued that COBOL isn't such a bad language, but I'm not going to do that here! Instead, we'll journey deep into the past to recreate a retro bug that could only happen in COBOL! Our travels will include:
+In the past I've argued that COBOL isn't such a bad language, but I'm not going to do that here! Instead, we'll journey deep into the past to recreate a retro bug that could only happen in COBOL! Our travels will include:
  
- * syntactic white space!
- * scotch tape!
- * dueling compiler options!
- * virtual punch cards!
- * sentences!
- * code blocks!
- * periods!
+  * Syntactic white space!
+  * Scotch tape!
+  * Dueling compiler options!
+  * Virtual punch cards!
+  * Sentences!
+  * Code blocks!
+  * Periods!
  
- No punch cards were harmed in the creation of this talk.
+No punch cards were harmed in the creation of this talk.
 
-**Walt Mankowski** is a recovering ivory tower computer scientist who recently completed a postdoc working with biologists to process and visualize terabytes of 2D and 3D time lapse microscope images. In his past life he spent 10 years as a COBOL programmer at a major cable home shopping network. He enjoys Perl, regular expressions, high-performance computing, and Futurama.
+**Walt Mankowski** is a recovering ivory-tower computer scientist who recently completed a postdoc working with biologists to process and visualize terabytes of 2D and 3D time lapse microscope images. In his past life he spent 10 years as a COBOL programmer at a major cable home shopping network. He enjoys Perl, regular expressions, high-performance computing, and Futurama.
 
 ---
 
@@ -499,10 +484,10 @@ COBOL is the Rodney Dangerfield of programming languages — it doesn't get any 
 
 ### Yomna Nasser
 
-**_"Islamic Geometry: Hankin’s Polygons in Contact Algorithm!!!"_**
+**_Islamic Geometry: Hankin’s Polygons in Contact Algorithm!!!_**
 
-In this talk we will go over Hankin’s “Polygons in Contact” algorithm, a technique for generating common patterns encountered in Islamic geometry, and some variations on it. There will be quite a few pretty pictures and two (!!) interactive examples in JS.
+In this talk we will go over Hankin’s “Polygons in Contact” algorithm, a technique for generating common patterns encountered in Islamic geometry, and some variations on it. There will be quite a few pretty pictures and two (!!) interactive examples in JavaScript.
  
- We’ll also briefly touch on the historical and cultural aspects of this kind of geometry and why modern mathematicians who work on this are so mystified about what was going on ~900 years ago!
+We’ll also briefly touch on the historical and cultural aspects of this kind of geometry and why modern mathematicians who work on this are so mystified about what was going on ~900 years ago!
 
 **Yomna** likes collecting musical instruments, discrete mathematics, cooking, and cold, dark rooms. She is a Technology Fellow at the EFF.

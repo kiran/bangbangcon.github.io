@@ -341,13 +341,13 @@ Earthlings are currently communicating with 33 space probes that have escaped Ea
 
 ### Mahtab Sabet
 
-**_"We Built a Game…for CHARITY!!"_**
+**_"PUSH THE BUTTON!_** :red_circle: **_Designing a fun game where the only input is a BIG RED BUTTON!_** :red_circle: **_!!!"_**
 
-In October 2016, I attended “Gift the Code”, a charity hackathon in Toronto. Our team built “PiKit”, a game designed for kids who lack fine motor control or who have limited mobility. The challenge was to build a fun, compelling, and educational game in which the only input was… a GIANT RED BUTTON! The game is now being played by kids at [ANON: a children's hospital].
+In October 2016, I attended “Gift the Code”, a charity hackathon in Toronto. Our team built “PiKit”, a game designed for kids who lack fine motor control or who have limited mobility. The challenge was to build a fun, compelling, and educational game in which the only input was… a BIG RED BUTTON! :red_circle: !!!
  
- This talk is a beginner’s guide to designing and building a game, based on what I learned as a first-time game developer at the hackathon. I’ll talk about using constraints to spur creativity in a design sprint, how to get inspiration from your favourite games, and how to design a game with logical level progressions.
+ This talk is a beginner’s guide to designing and building a game, based on what I learned as a first-time game developer at the hackathon. I’ll talk about using constraints to spur creativity in a design sprint, how to get inspiration from your favourite games, and how to design a game with logical level progressions so you can help the player understand what to do next, without explicitly telling them what to do.
 
-**Mahtab**'s dream job is to be a star on Broadway, but in the meantime works as a Senior Software Engineer at Capital One in Toronto, Canada. 
+[**Mahtab**](http://mahtabsabet.com) works as a Senior Software Engineer at Capital One in Toronto, Canada...striving to perfect an online banking platform that consists entirely of a BIG RED BUTTON! :red_circle: !!!
 
 ---
 

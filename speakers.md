@@ -112,7 +112,7 @@ In 1997, I set out to extend Infocom's Z-machine to support modern interactive f
 
 **_"Making Mushrooms Glow!"_**
 
-In just over a month, we built the software and electronics for [ANON: project] – an interactive art installation comprised of five huge, glowing, origami mushrooms that move in reaction to human contact. [ANON: project] was presented at [ANON: large festival] and at the [ANON: other large festival]. I'll share what I learned about building software for rapidly testing interaction design concepts, and my experiences controlling these large contraptions with Node.js (yes, Javascript!), Raspberry Pis, Pixelpushers, Processing, and more.
+In just over a month, we built the software and electronics for [Shrumen Lumen](https://www.facebook.com/ShrumenLumen/) – an interactive art installation comprised of five huge, glowing, origami mushrooms that move in reaction to human contact. Shrumen Lumen was presented at Burning Man '16' and at the MeetD3 festival in Dubai's Design District. I'll share what I learned about building software for rapidly testing interaction design concepts, and my experiences controlling these large contraptions with Node.js (yes, Javascript!), Raspberry Pis, Pixelpushers, Processing, and more.
 
 **Bomani** is a software engineer, designer, and learning sciences researcher. He is currently a senior in Computer Science at Northwestern. Bomani is passionate about creating memorable digital experiences, and works with various creative collectives focused on music and art. 
 

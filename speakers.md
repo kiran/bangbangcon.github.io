@@ -466,11 +466,11 @@ We spend a lot of time with our keyboards. How do they work? How does pushing do
 
 **_"How Merkle trees enable the decentralized Web!"_**
 
-Decentralized networks operate without relying on a central source of truth, and instead rely on group coordination in order to establish a shared state. Trust is distributed among participants, so in order to have confidence that each participant is telling the truth, there must be a mechanism for guaranteeing that participants have not corrupted or tampered with the system's state.
+Decentralized networks operate without relying on a central source of truth, and instead rely on group coordination in order to establish a shared state. Trust is distributed among participants, so to have confidence that each participant is telling the truth, there must be a mechanism for guaranteeing that participants have not accidentally corrupted or intentionally tampered with the system's state.
  
  Enter the Merkle tree, a data structure that was patented in 1979, and because of its unique content validating and performance qualities, has since become the backbone of decentralized software like Git, BitTorrent, ZFS, and Ethereum.
 
-**Tara** helps build Beaker, an experimental browser for exploring and publishing to peer-to-peer networks. She's enthusiastic about decentralizing the Web, and thinks that peer-to-peer protocols will reinvigorate the creativity of the Web's early days.
+**Tara** helps build Beaker, a browser for the peer-to-peer Web. She's enthusiastic about decentralizing the Web, and thinks that peer-to-peer protocols will reinvigorate the creativity of the Web's early days.
 
 ---
 

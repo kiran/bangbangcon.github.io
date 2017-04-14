@@ -112,9 +112,9 @@ In 1997, I set out to extend Infocom's Z-machine to support modern interactive f
 
 **_"Making Mushrooms Glow!"_**
 
-This is the story of the software and electronics behind [ANON: prokect], an interactive art project comprised of five huge, kinetic, glowing origami mushrooms. [ANON: project] was presented at [ANON: large festival] and at the [ANON: other large festival]. I'll share what I learned about using Raspberry Pi, Pixelpushers, and Node.js (yes, Javascript!) to control these large contraptions.
+In just over a month, we built the software and electronics for [ANON: project] – an interactive art installation comprised of five huge, glowing, origami mushrooms that move in reaction to human contact. [ANON: project] was presented at [ANON: large festival] and at the [ANON: other large festival]. I'll share what I learned about building software for rapidly testing interaction design concepts, and my experiences controlling these large contraptions with Node.js (yes, Javascript!), Raspberry Pis, Pixelpushers, Processing, and more.
 
-**Bomani McClendon** is a software engineer and designer from Nashville, currently studying Computer Science at Northwestern. He is passionate about learning sciences, music, and memorable digital experiences. 
+**Bomani** is a software engineer, designer, and learning sciences researcher. He is currently a senior in Computer Science at Northwestern. Bomani is passionate about creating memorable digital experiences, and works with various creative collectives focused on music and art. 
 
 ---
 

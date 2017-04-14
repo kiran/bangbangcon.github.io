@@ -395,9 +395,9 @@ Smartwatches are smaller and lighter than any handset! Anything that drains slig
 
 **_"DHCP: IT'S MOSTLY YELLING!!"_**
 
-The Dynamic Host Configuration Protocol (DHCP to its friends) is the magic by which your laptop knows how to get to Twitter on a brand new network about which it knows nothing. DHCP can tell your computer what its address should be, and where it should go to connect out to other networks. It can also tell your laptop weird stuff, like that it should run all the traffic through a proxy!!
+The Dynamic Host Configuration Protocol (DHCP to its friends) is the magic by which your laptop knows how to get to Twitter on a brand new network about which it knows nothing. DHCP can tell your computer what its address should be, and where it should go to connect out to other networks. It can also tell your laptop weird stuff, like that it should run all the traffic through a proxy you've never heard of!!  IT ALSO WORKS MOSTLY BY YELLING!
 
-**Mindy** likes cats and programming in OCaml.  She mostly works Mirage, a library operating system that generates unikernels.  
+**Mindy** likes cats and programming in OCaml.  She mostly works on Mirage, a library operating system that generates unikernels.  She has been a professional DHCP understander since 2003.
 
 ---
 

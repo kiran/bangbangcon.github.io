@@ -361,15 +361,24 @@ In October 2016, I attended “Gift the Code”, a charity hackathon in Toronto.
 
 ### Mark Dominus
 
-**_"Automatic classification of quilt block patterns"_**
+**_"I got the computer to find words with good anagrams and throw away the boring ones!!"_**
 
-To make a quilt, you take a lot of small patches of fabric and sew them together into larger patterns called blocks. Long ago I had the computer generate every representative of a certain set of blocks, because I suspected that there would be some cool blocks in the set that were rarely seen. I was right! The set looks super cool.
- 
- Some of the blocks were very easy to tell apart, but the differences between others were very subtle. I wondered if there was a way to get the computer to classify the blocks into families where the blocks in each family looked similar.
- 
- This is a very nebulous problem, underspecified and vague. Just the kind of problem I like! The first thing I tried didn't work, but the second thing did, and I will explain how it works, with many cool illustrations, and explain some of the general problem-solving techniques that I use to solve vague and poorly-specified problems like this one.
+25 years ago I got the computer to search the dictionary for words
+that were anagrams of one another.  The results were voluminous, but
+mostly boring.  So I tried helping the computer to understand which
+anagrams were boring so it could throw them away.  This worked!
 
-**Mark Dominus** is married to a quilter.  He first became interested in programming in the mid-1970s from watching his mom do it.  
+In 1992 I used a brute-force algorithm, which was pretty slow; the
+program took a few hours to run.  This year I learned a more
+sophisticated algorithm to do the same thing and implemented it.  The
+new program was super fast! It took only a few seconds.
+
+I'll explain both algorithms and reveal the surprising results!
+
+**[Mark Dominus](http://blog.plover.com/)** became interested in
+programming in the mid-1970s from watching his mom do it.  He likes
+programming, anagrams, quilts, the moon, the sun, mathematics, and
+figs.
 
 ---
 

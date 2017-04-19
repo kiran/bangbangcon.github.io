@@ -347,7 +347,7 @@ In October 2016, I attended “Gift the Code”, a charity hackathon in Toronto.
  
  This talk is a beginner’s guide to designing and building a game, based on what I learned as a first-time game developer at the hackathon. I’ll talk about using constraints to spur creativity in a design sprint, how to get inspiration from your favourite games, and how to design a game with logical level progressions so you can help the player understand what to do next, without explicitly telling them what to do.
 
-[**Mahtab**](http://mahtabsabet.com) works as a Senior Software Engineer at Capital One in Toronto, Canada...striving to perfect an online banking platform that consists entirely of a BIG RED BUTTON! :red_circle: !!!
+[**Mahtab**](http://mahtabsabet.com) works as a Senior Software Engineer at Capital One in Toronto, Canada...striving to perfect an online banking platform that consists entirely of a BIG RED BUTTON! :red_circle: !!! (just kidding ☺️)
 
 ---
 
